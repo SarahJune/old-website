@@ -1,3 +1,20 @@
+@media only screen and (max-width: 1100px) {
+  .no-show {
+    display: none;
+  }
+  .break {
+    display: inline;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .projects figure {
+    width: 100%;
+    margin-right: 0;
+  }
+  .projects figure img{
+    width: 100%;
+  }
+}
 @media only screen and (max-width: 600px) {
   .projects figure img {
     width: 100%;

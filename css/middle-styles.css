@@ -93,9 +93,14 @@ em {
   .about figure img {
     width: 100%;
   }
-.projects figure img {
-  width: 50%;
-  height: 50%;
+.projects figure {
+  width: 42%;
+  margin-right: 8%;
 }
-
+.projects figure img{
+  width: 100%;
+}
+.break {
+  display: none;
+}
 
