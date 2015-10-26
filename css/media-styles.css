@@ -10,15 +10,10 @@
   .projects figure {
     width: 100%;
     margin-right: 0;
-  }
-  .projects figure img{
-    width: 100%;
+    margin-bottom: 20px;
   }
 }
 @media only screen and (max-width: 600px) {
-  .projects figure img {
-    width: 100%;
-  }
   .home {
     height: 150px;
   }

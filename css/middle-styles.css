@@ -103,4 +103,7 @@ em {
 .break {
   display: none;
 }
+.content > figure {
+  margin-top: -20px;
+}
 
